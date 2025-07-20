@@ -49,3 +49,11 @@ Files Included
 Vrinda_Store_Annual_Report_2022.xlsx (Excel Dashboard)
 Dashboard_Screenshot.jpg (Dashboard preview image)
 README.md (this file)
+
+Insights Summary
+Amazon is the most dominant sales channel.
+Maharashtra is the top-performing state by sales volume.
+Women (especially adults) contribute the most to revenue.
+Over 90% of the orders were delivered successfully.
+
+
